@@ -1,30 +1,109 @@
-# Task management app
+# 🌟 Team Pulse 
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)  
+![Redux](https://img.shields.io/badge/Redux-Toolkit-purple?logo=redux)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss)  
+![License](https://img.shields.io/badge/License-MIT-green)  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/itfw2205-2802s-projects/v0-task-management-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/WRUny8ay0Ny)
+**Task Pulse (Team Pulse)** is a collaborative team and task management app built with **React, TypeScript, Redux, and TailwindCSS**. It helps teams stay organized, track members, and monitor projects seamlessly through an interactive dashboard.  
 
-## Overview
+🔗 **Live Demo**: https://team-pulsebyshubh.vercel.app/
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## ✨ Features
 
-Your project is live at:
+- 📊 **Dashboard** – Real-time overview of team and project insights  
+- 👥 **Member Management** – Add, edit, and manage team members with roles  
+- 📝 **Task Tracking** – Create, update, and monitor tasks & projects  
+- 💾 **State Persistence** – Powered by Redux Toolkit  
+- 🎨 **Modern UI** – Responsive design with TailwindCSS  
+- 🔒 **Type Safety** – Full TypeScript support  
 
-**[https://vercel.com/itfw2205-2802s-projects/v0-task-management-app](https://vercel.com/itfw2205-2802s-projects/v0-task-management-app)**
+---
 
-## Build your app
+## 🛠️ Tech Stack
 
-Continue building your app on:
+- **Frontend**: React + TypeScript  
+- **State Management**: Redux Toolkit  
+- **Styling**: TailwindCSS  
+- **Build Tooling**: Vite (development & production builds)  
+- **Deployment**: Vercel  
 
-**[https://v0.app/chat/projects/WRUny8ay0Ny](https://v0.app/chat/projects/WRUny8ay0Ny)**
+---
 
-## How It Works
+## 📂 Project Structure
+src/
+├── components/ # Reusable UI components
+├── pages/ # Page-level components
+├── redux/ # Redux slices & store setup
+├── types/ # TypeScript type definitions
+├── utils/ # Helper functions
+└── App.tsx # Root component
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/oshubhomer/Task-Pulse.git
+cd Task-Pulse
+2. Install dependencies
+bash
+Copy code
+npm install
+3. Start development server
+bash
+Copy code
+npm run dev   # Vite
+4. Build for production
+bash
+Copy code
+npm run build
+🌍 Deployment
+This project is deployed with Vercel.
+To deploy your own fork:
+
+Push your repo to GitHub
+
+Connect it to Vercel at vercel.com
+
+Deploy using default React/TypeScript settings
+
+🤝 Contributing
+Contributions are always welcome!
+
+Fork the project
+
+Create a feature branch (git checkout -b feature/your-idea)
+
+Commit your changes (git commit -m 'Add new feature')
+
+Push to your branch (git push origin feature/your-idea)
+
+Open a Pull Request
+
+📜 License
+This project is licensed under the MIT License.
+Feel free to use, modify, and share it.
+
+📸 Screenshots 
+## Member[light mode]
+<img width="1918" height="757" alt="image" src="https://github.com/user-attachments/assets/3c045e7d-79a8-4d42-9915-25d5e275fbc8" />
+
+## Member[Dark-Mode]
+<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/b7f53de2-b16c-4465-8b15-fe6a138ba499" />
+
+## Lead[Dark Mode]
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/84e1287f-5c97-456b-baa4-e75d7cd024a1" />
+
+## Manage Team
+<img width="1903" height="851" alt="image" src="https://github.com/user-attachments/assets/6d70da68-d6ea-4ddf-9af0-1bb61fce15e9" />
+
+## Community
+<img width="1910" height="961" alt="image" src="https://github.com/user-attachments/assets/9fd9cd64-aaca-41dd-bb41-04f59e774a62" />
+
+⭐ Support
+If you like this project, please star the repo ⭐ to support development!
