@@ -8,7 +8,7 @@
 
 **Task Pulse (Team Pulse)** is a collaborative team and task management app built with **React, TypeScript, Redux, and TailwindCSS**. It helps teams stay organized, track members, and monitor projects seamlessly through an interactive dashboard.  
 
-🔗 **Live Demo**: https://team-pulsebyshubh.vercel.app/
+🔗 **Live Demo**: [team-pulsebyshubh.vercel.app](https://team-pulsebyshubh.vercel.app/)  
 
 ---
 
@@ -34,6 +34,7 @@
 ---
 
 ## 📂 Project Structure
+
 src/
 ├── components/ # Reusable UI components
 ├── pages/ # Page-level components
@@ -42,27 +43,27 @@ src/
 ├── utils/ # Helper functions
 └── App.tsx # Root component
 
+
 ---
 
 ## ⚡ Getting Started
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/oshubhomer/Task-Pulse.git
 cd Task-Pulse
-2. Install dependencies
-bash
-Copy code
+
+### 2. Install dependencies
 npm install
-3. Start development server
-bash
-Copy code
+
+### 3. Start development server
 npm run dev   # Vite
-4. Build for production
-bash
-Copy code
+
+### 4. Build for production
 npm run build
-🌍 Deployment
+
+## 🌍 Deployment
+
 This project is deployed with Vercel.
 To deploy your own fork:
 
@@ -72,7 +73,8 @@ Connect it to Vercel at vercel.com
 
 Deploy using default React/TypeScript settings
 
-🤝 Contributing
+### 🤝 Contributing
+
 Contributions are always welcome!
 
 Fork the project
@@ -85,25 +87,24 @@ Push to your branch (git push origin feature/your-idea)
 
 Open a Pull Request
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it.
 
-📸 Screenshots 
-## Member[light mode]
-<img width="1918" height="757" alt="image" src="https://github.com/user-attachments/assets/3c045e7d-79a8-4d42-9915-25d5e275fbc8" />
-
-## Member[Dark-Mode]
-<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/b7f53de2-b16c-4465-8b15-fe6a138ba499" />
-
-## Lead[Dark Mode]
-<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/84e1287f-5c97-456b-baa4-e75d7cd024a1" />
-
-## Manage Team
-<img width="1903" height="851" alt="image" src="https://github.com/user-attachments/assets/6d70da68-d6ea-4ddf-9af0-1bb61fce15e9" />
-
-## Community
-<img width="1910" height="961" alt="image" src="https://github.com/user-attachments/assets/9fd9cd64-aaca-41dd-bb41-04f59e774a62" />
-
+## 📸 Screenshots
+Member (Light Mode)
+<img width="1918" height="757" alt="Member Light Mode" src="https://github.com/user-attachments/assets/3c045e7d-79a8-4d42-9915-25d5e275fbc8" />
+Member (Dark Mode)
+<img width="1912" height="957" alt="Member Dark Mode" src="https://github.com/user-attachments/assets/b7f53de2-b16c-4465-8b15-fe6a138ba499" />
+Lead (Dark Mode)
+<img width="1917" height="942" alt="Lead Dark Mode" src="https://github.com/user-attachments/assets/84e1287f-5c97-456b-baa4-e75d7cd024a1" />
+Manage Team
+<img width="1903" height="851" alt="Manage Team" src="https://github.com/user-attachments/assets/6d70da68-d6ea-4ddf-9af0-1bb61fce15e9" />
+Community
+<img width="1910" height="961" alt="Community" src="https://github.com/user-attachments/assets/9fd9cd64-aaca-41dd-bb41-04f59e774a62" />
 ⭐ Support
+
 If you like this project, please star the repo ⭐ to support development!
+
+
